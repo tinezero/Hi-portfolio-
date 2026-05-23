@@ -1,5 +1,5 @@
 
-hi I'm aurelio christine
+hi I'm tinezero
 ** by the way I am secret person **
 ## PCB Desing practice ##
 create PCB layout 
